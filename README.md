@@ -25,6 +25,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Mockup 
+![Workday Scheduler](./assets/MockupImage.png)
 
 ## Usage
 It can be used for practicing a typical coding assessment as part of a job interview. 
